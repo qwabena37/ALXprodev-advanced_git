@@ -1,1 +1,1 @@
-initial develop branch
+data requirements: email, firstName, lastName, profilePic
